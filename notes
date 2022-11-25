@@ -1,0 +1,8 @@
+alpha*r_gradient  pouzivame pri red pixels
+
+beta*g_gradient pouzivame pri green pixels
+
+gamma*b_gradient pri blue pixels
+
+PSNR_malvar for kodim01 = 28.9517890847453 the psnr in matlab using filter 29.6448
+for bilinear = 26.249429912036124
