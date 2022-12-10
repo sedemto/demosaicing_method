@@ -1,2 +1,2 @@
-# demosaicing_method
-demosaicing method for semestral thesis
+# Malvar's demosaicing method
+demosaicing method for my semestral thesis
