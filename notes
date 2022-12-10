@@ -1,8 +1,8 @@
-alpha*r_gradient  pouzivame pri red pixels
+alpha*r_gradient  is used for red pixel locations
 
-beta*g_gradient pouzivame pri green pixels
+beta*g_gradient is used for green pixel locations
 
-gamma*b_gradient pri blue pixels
+gamma*b_gradient is used for blue pixel locations
 
-PSNR_malvar for kodim01 = 28.9517890847453 the psnr in matlab using filter 29.6448
+PSNR_malvar for kodim01 = 28.9517890847453, the psnr in matlab using filter 29.6448
 for bilinear = 26.249429912036124
