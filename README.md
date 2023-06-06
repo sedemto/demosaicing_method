@@ -1,4 +1,4 @@
-# README file for bachelor thesis - **RAW image debayerization using deep neural network**
+# **RAW image debayerization using deep neural network**
 
 This zip file contains multiple folders:
 - **bilinear_result_imgs** = this folder contains the result images obtained using the bilinear interpolation
