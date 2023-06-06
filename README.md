@@ -20,7 +20,7 @@
 
 ## Tutorial to start the code in folder **deep_image_prior_all**:
 - to start the code Python and Anaconda need to be installed
-- after the intallation create aa conda environment using the `environment.yml` file located in the folder -> `conda env create -f environment.yml`
+- after the intallation create a conda environment using the `environment.yml` file located in the folder -> `conda env create -f environment.yml`
 - activate the environment using `conda activate dip`
 - open the folder in Jupyter notebook using `jupyter notebook` command and navigate to the file with code named `demosaicing.ipynb`
 - start the code
