@@ -3,7 +3,7 @@
 ## This zip file contains multiple folders:
 - **bilinear_result_imgs** = this folder contains the result images obtained using the bilinear interpolation
 - **malvar_result_imgs** = this folder contains the result images obtained using the Malvar's method
-- **matlab_result_imgs** = this folder contains the result images obtained using the demosaic function in Matlab
+- **matlab_result_imgs** = this folder contains the result images obtained using the `demosaic` function in Matlab
 - **menon_result_imgs** = this folder contains the result images obtained using the Menon's method
 - **kodak_ground_truth** = this folder contains the original images of the Kodak data set
 - **dip_bayer_filter_result_imgs** = this folder contains images obtained using the proposed method with the Bayer filter 
