@@ -11,7 +11,7 @@
 - **dip_xtrans_filter_result_imgs** = this folder contains images obtained using the proposed method with X-Trans filter 
 - **deep_image_prior_all** = contains the code and all requirements to run it
 
-## DIP folders each contain multiple other folders:
+### DIP folders each contain multiple other folders:
 - the folder with "2000_epochs" contains the result images that were acquired after 2000 epochs of the optimization process
 - the folder with "last2avg" contains the result images after the averaging of the last 2 images of the optimization process
 - the folder with "last40avg" contains the result images after the averaging of the last 40 images of the optimization process
